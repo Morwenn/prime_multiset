@@ -1,3 +1,6 @@
+![Python version](https://img.shields.io/badge/python-3.5-blue.svg)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+
 ## A multiset of prime numbers
 
 The `prime_multiset` module contains a `PrimeMultiset` class that represents a multiset that can only store prime
